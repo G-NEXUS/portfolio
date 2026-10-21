@@ -22,7 +22,6 @@ I enjoy building for the web, learning new technologies, and turning ideas into 
 - Build responsive, user-friendly websites
 - Improve my JavaScript skills
 - Explore modern frontend technologies
-- Experiment with AI-powered projects
 
 ### Let's Connect
 

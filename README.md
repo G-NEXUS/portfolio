@@ -30,3 +30,4 @@ Feel free to explore my repositories and follow my progress as I learn and build
 ---
 
 *Learning by building. Improving one project at a time.*
+G-NEXUS *Where ideas come to life*
